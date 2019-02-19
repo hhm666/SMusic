@@ -1,0 +1,3 @@
+#SMusic Master Config
+PlayMode: 1 #1 is list loop playback, 2 is single song loop, 3 is random play
+ShowMusicList: true #Whether to show the music list when loading

@@ -1,0 +1,22 @@
+smusic.load.info: "%TITLEloaded successfully!"
+smusic.enable.info: "%TITLEstarted successfully!"
+
+smusic.music.load.single.success: "%TITLEmusic %1 loaded successfully!"
+smusic.music.load.all.success: "%TITLEa total of %1 music is loaded!"
+
+smusic.music.playing: "%TITLENow the music is %1."
+smusic.music.stillPlaying: "%TITLEStill plays: %1"
+
+smusic.command.notFound: "%TITLE§c command input error, please enter /music help to view help!"
+smusic.command.notPlayer: "%TITLE§c you are not a player!"
+smusic.command.notOp: "%TITLE§c you don't have permission!"
+smusic.command.pause.success: "%TITLEPaused successfully!"
+smusic.command.start.success: "%TITLEStarted playing successfully!"
+smusic.command.load.success: "%TITLELoad Music: %1 Success!"
+smusic.command.load.notExists: "%TITLELoad music: %1 failed: the file does not exist!"
+smusic.command.previous.random: "%TITLE§c can't play the last one under random play!"
+smusic.command.play.on: "%TITLEsuccessfully turned on all server 's players playback!"
+smusic.command.play.off: "%TITLEsuccessfully turned off all server 's players playback!"
+smusic.command.help.player: "%TITLEHelp\n§a/music pause Pause playback\n§b/music help View help\n§c/music info View plugin author information"
+smusic.command.help.admin: "%TITLEHelp\n§a/music pause Pause playback\n§b/music help View help\n§c/music info View plugin author information\n§d/music next Play One \n§e/music previous Play the previous \n§1/music play <on/off> Adjust the server playback status"
+smusic.command.copyright: "%TITLECopyright Information:\n§aPlugin:%1\n§6Author: hhm"

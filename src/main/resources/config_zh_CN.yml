@@ -1,0 +1,3 @@
+#SMusic 主配置文件
+PlayMode: 1 #1是列表循环播放，2是单曲循环，3是随机播放
+ShowMusicList: true #是否在加载时显示音乐列表

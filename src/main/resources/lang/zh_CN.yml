@@ -1,0 +1,22 @@
+smusic.load.info: "%TITLE加载成功!"
+smusic.enable.info: "%TITLE启动成功!"
+
+smusic.music.load.single.success: "%TITLE音乐%1加载成功!"
+smusic.music.load.all.success: "%TITLE音乐加载完成,共加载%1首音乐!"
+
+smusic.music.playing: "%TITLE现在正在播放:%1"
+smusic.music.stillPlaying: "%TITLE仍然播放:%1"
+
+smusic.command.notFound: "%TITLE§c命令输入错误,请输入/music help查看帮助!"
+smusic.command.notPlayer: "%TITLE§c你不是一个玩家!"
+smusic.command.notOp: "%TITLE§c你没有权限!"
+smusic.command.pause.success: "%TITLE成功暂停播放!"
+smusic.command.start.success: "%TITLE成功开始播放!"
+smusic.command.load.success: "%TITLE加载音乐:%1成功!"
+smusic.command.load.notExists: "%TITLE加载音乐:%1失败:文件不存在!"
+smusic.command.previous.random: "%TITLE§c在随机播放下,不能播放上一首!"
+smusic.command.play.on: "%TITLE成功开启全服务器的播放功能!"
+smusic.command.play.off: "%TITLE成功关闭全服务器的播放功能!"
+smusic.command.help.player: "%TITLE帮助\n§a/music pause 暂停播放\n§b/music help 查看帮助\n§c/music info 查看插件作者信息"
+smusic.command.help.admin: "%TITLE帮助\n§a/music pause 暂停播放\n§b/music help 查看帮助\n§c/music info 查看插件作者信息\n§d/music next 播放下一首\n§e/music previous 播放上一首\n§1/music play <on/off> 调整服务器播放状态"
+smusic.command.copyright: "%TITLE版权信息:\n插件: %1\n§6作者:hhm"
